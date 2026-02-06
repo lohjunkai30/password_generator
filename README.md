@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This was an upload of an earlier project of mine whereby I experimented with python terminal inpit interface, random modules and string manipulation. 
+This was an upload of an earlier project of mine whereby I experimented with python terminal input interface, random modules and string manipulation. This password generator is able to customise your generated password based on common requirements requested during creation of accounts
 
 ## Tech Stack
 
